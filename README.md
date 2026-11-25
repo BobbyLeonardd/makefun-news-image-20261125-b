@@ -7,10 +7,10 @@
 Entry for [make.fun](https://make.fun)'s daily news-image bounty for Wednesday 25 November 2026.
 
 `entry.png` is one 1024x1024 front page: the date set large, six key figures, three
-lead stories, eight more cards with a confidence badge each, and twenty-nine numbered
-briefs — forty stories from six regions, every one reported on that day in some time
-zone. A world map with numbered pins and a Europe/Gulf inset, a region tally and a
-date check sit underneath.
+lead stories, eight more cards with a drawn mark and a confidence badge each, and
+thirty-two numbered briefs — forty-three stories from seven regions, every one reported
+on that day in some time zone. A world map with numbered pins and a Europe/Gulf inset,
+a region tally and a date check sit underneath.
 
 Run it the way the grader does:
 
